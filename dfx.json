@@ -1,0 +1,16 @@
+{
+  "canisters": {
+    "social_media_app_backend": {
+      "main": "src/social_media_app_backend/main.mo",
+      "type": "motoko"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
